@@ -1,6 +1,6 @@
 var page = 1
 var perPage = 10
-var url = 'https://slate-gray-moth-hat.cyclic.app/'
+var url = 'https://nice-pear-lamb-cuff.cyclic.app/'
 
 const loadMovieData = (title = null) => {
     if (title != null) {
